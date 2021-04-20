@@ -8,3 +8,4 @@ options:
     pattern: "^(.*)$"
     pattern_maps:
       - Subject
+bye
